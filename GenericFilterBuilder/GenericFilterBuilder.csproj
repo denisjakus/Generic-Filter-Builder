@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Denis Jakus</Authors>
+    <Copyright>MIT</Copyright>
+    <Description>Let this Generic Filter Class keep tedious filtering work for you!
+Easily apply filter via string (filter class is also provided) from your web api call and dynamically create expressions which  you send to repository.
+
+"Icon made by Pixel perfect from www.flaticon.com"</Description>
+    <PackageTags>generic, filter, generic filter, expressions, expression, lambda, dynamic filters, dynamic filter, dynamic</PackageTags>
+    <PackageIcon>filter.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\Download\filter.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
