@@ -1,15 +1,22 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
     <Authors>Denis Jakus</Authors>
-    <Copyright>MIT</Copyright>
-    <Description>Let this Generic Filter Class keep tedious filtering work for you!
-Easily apply filter via string (filter class is also provided) from your web api call and dynamically create expressions which  you send to repository.
+    <Copyright>Denis Jakus</Copyright>
+    <Description>Let this Generic Filter Builder Class keep tedious filtering work for you!
+
+Easily apply filter via string (filter class is also provided) from your web api call and dynamically create expressions which  you send to repository(generic repository also included).
+
 
 "Icon made by Pixel perfect from www.flaticon.com"</Description>
     <PackageTags>generic, filter, generic filter, expressions, expression, lambda, dynamic filters, dynamic filter, dynamic</PackageTags>
     <PackageIcon>filter.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/denisjakus/Generic-Filter-Builder</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/denisjakus/Generic-Filter-Builder</RepositoryUrl>
+    <PackageId>GenericFilterBuilder</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
