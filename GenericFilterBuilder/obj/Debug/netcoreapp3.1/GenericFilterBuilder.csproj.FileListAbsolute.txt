@@ -1,9 +1,0 @@
-D:\_projects\GenericFilterBuilder\obj\Debug\netcoreapp3.1\GenericFilterBuilder.csprojAssemblyReference.cache
-D:\_projects\GenericFilterBuilder\obj\Debug\netcoreapp3.1\GenericFilterBuilder.AssemblyInfoInputs.cache
-D:\_projects\GenericFilterBuilder\obj\Debug\netcoreapp3.1\GenericFilterBuilder.AssemblyInfo.cs
-D:\_projects\GenericFilterBuilder\obj\Debug\netcoreapp3.1\GenericFilterBuilder.csproj.CoreCompileInputs.cache
-D:\_projects\GenericFilterBuilder\bin\Debug\netcoreapp3.1\GenericFilterBuilder.deps.json
-D:\_projects\GenericFilterBuilder\bin\Debug\netcoreapp3.1\GenericFilterBuilder.dll
-D:\_projects\GenericFilterBuilder\bin\Debug\netcoreapp3.1\GenericFilterBuilder.pdb
-D:\_projects\GenericFilterBuilder\obj\Debug\netcoreapp3.1\GenericFilterBuilder.dll
-D:\_projects\GenericFilterBuilder\obj\Debug\netcoreapp3.1\GenericFilterBuilder.pdb
