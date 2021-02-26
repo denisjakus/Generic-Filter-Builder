@@ -5,6 +5,13 @@ Hi! This is my first Nuget package. I think you will find it pretty useful when 
 **GenericFilterBuilder** is a generic filter builder class. Each **YourDomainClass** can be filtered by its properties if they are provided within **filterValue**.
 
 FilterValue param is an array of **FilterValueItem** class serialized to Json into string.
+> **Sample filter:** 
+```
+[
+{"filterKey":"yourClassPropertyName","filterValue":propertyValue},
+{"filterKey":"yourClassPropertyName2","filterValue":propertyValue2},
+...]
+```
 
 >**Disclaimer**: 
 >These examples are only intended to provide you enough information on how to use GenericFilterBuilder functionality 
